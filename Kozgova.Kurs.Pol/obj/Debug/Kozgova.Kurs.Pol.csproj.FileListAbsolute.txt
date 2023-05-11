@@ -1,0 +1,11 @@
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\bin\Debug\Kozgova.Kurs.Pol.exe.config
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\bin\Debug\Kozgova.Kurs.Pol.exe
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\bin\Debug\Kozgova.Kurs.Pol.pdb
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.csproj.AssemblyReference.cache
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.csproj.SuggestedBindingRedirects.cache
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.Form1.resources
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.Properties.Resources.resources
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.csproj.GenerateResource.cache
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.csproj.CoreCompileInputs.cache
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.exe
+C:\Users\nasty\Source\Repos\Kozgova.Kurs.Pol\Kozgova.Kurs.Pol\obj\Debug\Kozgova.Kurs.Pol.pdb
